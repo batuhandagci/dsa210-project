@@ -5,3 +5,5 @@ seaborn
 scipy
 jupyter
 nbconvert
+scikit-learn>=1.3
+tabulate
